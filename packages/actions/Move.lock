@@ -2,7 +2,7 @@
 
 [move]
 version = 3
-manifest_digest = "1E1C40C72421D7E5FF9A9DE35AD2AE58B0395C2DB67593F4CBF0B96CFB8653D2"
+manifest_digest = "7E3E8DF0173C6C91F24F43F768222739AFFDEEB08ED066E2D6E68D9CDAB260A2"
 deps_digest = "397E6A9F7A624706DBDFEE056CE88391A15876868FD18A88504DA74EB458D697"
 dependencies = [
   { id = "AccountConfig", name = "AccountConfig" },
@@ -41,7 +41,7 @@ dependencies = [
 
 [[move.package]]
 id = "Kiosk"
-source = { git = "https://github.com/thounyy/apps.git", rev = "testnet", subdir = "kiosk" }
+source = { git = "https://github.com/mcxross/apps.git", rev = "testnet", subdir = "kiosk" }
 
 dependencies = [
   { id = "Sui", name = "Sui" },
@@ -60,14 +60,14 @@ dependencies = [
 ]
 
 [move.toolchain-version]
-compiler-version = "1.37.3"
+compiler-version = "1.42.2"
 edition = "2024.beta"
 flavor = "sui"
 
 [env]
 
-[env.testnet]
-chain-id = "4c78adac"
-original-published-id = "0x316cfca0908dd3ab6da95fc39a13bd8319380dcdbfc76e6bd1252edd2d584383"
-latest-published-id = "0x316cfca0908dd3ab6da95fc39a13bd8319380dcdbfc76e6bd1252edd2d584383"
+[env.localnet]
+chain-id = "5be3743f"
+original-published-id = "0xbf8506d3b66af704eff920ec3ccad103388e715cde06ff926683e5ef4266435e"
+latest-published-id = "0xbf8506d3b66af704eff920ec3ccad103388e715cde06ff926683e5ef4266435e"
 published-version = "1"

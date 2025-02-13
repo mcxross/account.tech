@@ -1,18 +1,18 @@
 [
   {
     "type": "extensions::Extensions",
-    "id": "0x1ad1922793e6b3a19d83dc751d238fe1f52ae0652b434489f847e28c1bc3e6d8"
-  },
-  {
-    "type": "AccountExtensions",
-    "id": "0x360819c66bcaf7f423b67d67a681da2b9ece6fda04e616d9dbe9bbd3462d8809"
+    "id": "0x5332a22d59546b3b1c9e1b93cef03d764b5ab98da012f2848ef75f4c38be2dc7"
   },
   {
     "type": "package::UpgradeCap",
-    "id": "0x72d0e8e73d3472ba909a414b8cef07599eae0faeec703d2640762f7b3c46b184"
+    "id": "0x96a23b9688ee8882c09f89fb3f0fcbebbf804710810ab0a93ac9d65077d92513"
   },
   {
     "type": "extensions::AdminCap",
-    "id": "0xd10aa9605c7a542c5ca01916f5525fa195207d5b24cd488755a6f6ea067eee51"
+    "id": "0xb3dcb59574fb4067c8680ffe6f29656d0169f663eedf97fc973b0476f80567f8"
+  },
+  {
+    "type": "AccountExtensions",
+    "id": "0xbaf53a70711959d7c1354d123ec9b53c97c5d2fbfe9367a3d7ac882926426c5e"
   }
 ]
