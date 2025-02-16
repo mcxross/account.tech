@@ -25,8 +25,8 @@ local = "../config"
 local = "../extensions"
 
 [addresses]
-account_config = "0x39a4ef8c81eef387e39f7a5fa1613afff9ef42819ec8d29ce8a4504bd0987d6b"
+account_config = "0x207c6d8ecdc69052e78a531b3475eb3f21128e72ae450f5289df709c4b622cdc"
 account_actions = "0x0"
-account_protocol = "0x73d97d8c0d12d6edc7f40ec9025eefb04bc7207e9ed22ac7f354939ecbaa7b2c"
-account_extensions = "0xbaf53a70711959d7c1354d123ec9b53c97c5d2fbfe9367a3d7ac882926426c5e"
-kiosk = "0xd1206b5225ab2b7b1c888df4fc3e4381fa6b6a53907b2938a0f74ce0f2a8db7c"
+account_protocol = "0x9396f11ad0d098156b9df281013b63303558b8f1a2a681d3d1caf59a2f873c28"
+account_extensions = "0xaa599a03695b5b14c21a81b5050a7644c81db38f8ba57a185df13f57f237aa33"
+kiosk = "0x332ba1a4ca0d435c88a7a87c7eaf57ae526df0cdd81294be885ebacc485aef63"

@@ -14,4 +14,4 @@ local = "../extensions"
 
 [addresses]
 account_protocol = "0x0"
-account_extensions = "0xbaf53a70711959d7c1354d123ec9b53c97c5d2fbfe9367a3d7ac882926426c5e"
+account_extensions = "0xaa599a03695b5b14c21a81b5050a7644c81db38f8ba57a185df13f57f237aa33"

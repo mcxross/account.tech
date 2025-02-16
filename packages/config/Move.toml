@@ -17,5 +17,5 @@ local = "../extensions"
 
 [addresses]
 account_config = "0x0"
-account_protocol = "0x73d97d8c0d12d6edc7f40ec9025eefb04bc7207e9ed22ac7f354939ecbaa7b2c"
-account_extensions = "0xbaf53a70711959d7c1354d123ec9b53c97c5d2fbfe9367a3d7ac882926426c5e"
+account_protocol = "0x9396f11ad0d098156b9df281013b63303558b8f1a2a681d3d1caf59a2f873c28"
+account_extensions = "0xaa599a03695b5b14c21a81b5050a7644c81db38f8ba57a185df13f57f237aa33"
